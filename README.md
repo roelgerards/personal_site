@@ -1,4 +1,4 @@
-# personal_site
+# Personal Site
 
-[My personal site](https://trusting-goldwasser-249919.netlify.com/?target="_blank")
+[My personal site on Netlify](https://trusting-goldwasser-249919.netlify.com/?target="_blank")
 
